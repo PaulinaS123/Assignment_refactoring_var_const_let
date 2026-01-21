@@ -1,7 +1,8 @@
-# Assignment_refactoring_var_const_let
-## Victoria Salomon
+
 
 # Assignment: Refactoring var to const and let
+
+## Victoria Salomon
 
 **Objective:**  
 Refactor JavaScript code by replacing `var` declarations with `const` or `let` to improve readability, reliability, and scope safety.
