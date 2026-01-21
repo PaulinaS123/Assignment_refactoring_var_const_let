@@ -1,5 +1,5 @@
 # Assignment_refactoring_var_const_let
-# Victoria Salomon
+## Victoria Salomon
 
 # Assignment: Refactoring var to const and let
 
